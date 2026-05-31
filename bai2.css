@@ -1,0 +1,27 @@
+* {
+    background-color:#dbd9e3 ;
+}
+.check-list{
+    display: flex;
+    justify-content: center;
+}
+.list {
+    display: inline-block;
+    width: 230px;
+    text-align: center;
+    margin: 10px;
+    border: 1px solid #C1BCD1;
+    border-radius: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    
+}
+h2 {
+    color: red;
+    background-color: white;
+
+}
+p{
+    color: #372B61;
+    background-color: white;
+}
